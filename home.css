@@ -1,5 +1,6 @@
 #body {
 	background-image: siteBackground.jpg;
+	background-repeat: repeat;
 	color: #ffffff;
 }
 .headingAndPages {
