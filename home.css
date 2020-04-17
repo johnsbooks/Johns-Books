@@ -7,7 +7,8 @@
 	margin-top: 50px;
 	margin-left: 200px;
 	margin-right: 200px;
-	background-image: headerBackground.jpg;
+	background-image: url('headerBackground.jpg');
+	color: #ffffff;
 }
 .h1 {
 	font-family: Berlin Sans FB;
