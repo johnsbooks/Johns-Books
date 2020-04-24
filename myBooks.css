@@ -1,12 +1,12 @@
 #body {
-	background-image: siteBackground.jpg;
+	background-image: url('siteBackground.jpg');
 	color: #ffffff;
 }
 .headingAndPages {
 	margin-top: 50px;
 	margin-left: 200px;
 	margin-right: 200px;
-	background-image: headerBackground.jpg;
+	background-image: url('headerBackground.jpg');
 }
 .h1 {
 	font-family: Berlin Sans FB;
